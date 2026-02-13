@@ -9,6 +9,7 @@ import tasks.LeapYear;
 import tasks.FibonacciSeries;
 import tasks.FactorialOfANumber;
 import tasks.ArmstrongNumber;
+import tasks.PalindromeNumber;
 
 public class App {
     static String[] tasks = {
