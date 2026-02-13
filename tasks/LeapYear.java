@@ -16,7 +16,7 @@ public class LeapYear implements ITasks {
             }
         } else {
             sc.nextLine();
-            System.out.println("\n\nInvalid Number.\n");
+            System.out.println("\n\nInvalid Year.\n");
             return;
         }
     }
