@@ -1,7 +1,6 @@
 package tasks;
 
 import java.util.Scanner;
-import java.util.NoSuchElementException;
 
 public class EvenOddNumber implements ITasks {
 

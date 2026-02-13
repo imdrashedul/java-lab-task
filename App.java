@@ -1,8 +1,10 @@
 import java.util.Scanner;
 import java.util.NoSuchElementException;
-import tasks.EvenOddNumber;
 import tasks.ITasks;
 import java.lang.reflect.InvocationTargetException;
+
+import tasks.EvenOddNumber;
+import tasks.PrimeNumber;
 
 public class App {
     static String[] tasks = {
