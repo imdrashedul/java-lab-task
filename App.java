@@ -10,6 +10,7 @@ import tasks.FibonacciSeries;
 import tasks.FactorialOfANumber;
 import tasks.ArmstrongNumber;
 import tasks.PalindromeNumber;
+import tasks.Swap2Number;
 
 public class App {
     static String[] tasks = {
