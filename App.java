@@ -5,6 +5,7 @@ import java.lang.reflect.InvocationTargetException;
 
 import tasks.EvenOddNumber;
 import tasks.PrimeNumber;
+import tasks.LeapYear;
 
 public class App {
     static String[] tasks = {
