@@ -7,6 +7,8 @@ import tasks.EvenOddNumber;
 import tasks.PrimeNumber;
 import tasks.LeapYear;
 import tasks.FibonacciSeries;
+import tasks.FactorialOfANumber;
+import tasks.ArmstrongNumber;
 
 public class App {
     static String[] tasks = {
