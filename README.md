@@ -1,16 +1,16 @@
 # Lab Task
 
-1. Even Odd Number
-2. Prime Number
-3. Leap Year
-4. Fibonacci Series
-5. Factorial of a Number
-6. Armstrong Number
-7. Palindrome Number
-8. Swap 2 Number (without temporary variable)
-9. Largest of three Number
-10. Goldbach's conjecture
-11. Pyramid Pattern
-12. Floyd's Triangle
-13. Pascal Triangle
-14. Dream Program
+1. [Even Odd Number](/tasks/EvenOddNumber.java)
+2. [Prime Number](/tasks/PrimeNumber.java)
+3. [Leap Year](/tasks/LeapYear.java)
+4. [Fibonacci Series](/tasks/FibonacciSeries.java)
+5. [Factorial of a Number](/tasks/FactorialOfANumber.java)
+6. [Armstrong Number](/tasks/ArmstrongNumber.java)
+7. [Palindrome Number](/tasks/PalindromeNumber.java)
+8. [Swap 2 Number (without temporary variable)](/tasks/Swap2Number.java)
+9. [Largest of three Number](/tasks/LargestOfThreeNumber.java)
+10. [Goldbach's conjecture](/tasks/GoldbachsConjecture.java)
+11. [Pyramid Pattern](/tasks/PyramidPattern.java)
+12. [Floyd's Triangle](/tasks/FloydsTriangle.java)
+13. [Pascal Triangle](/tasks/PascalTriangle.java)
+14. [Dream Program]()
