@@ -6,6 +6,7 @@ import java.lang.reflect.InvocationTargetException;
 import tasks.EvenOddNumber;
 import tasks.PrimeNumber;
 import tasks.LeapYear;
+import tasks.FibonacciSeries;
 
 public class App {
     static String[] tasks = {
@@ -52,7 +53,7 @@ public class App {
         System.out.print("Choose a option:\n1. Back to Menu\n2. Exit\nEnter option: ");
         if(sc.hasNextInt()) {
             int opt = sc.nextInt();
-            sc.nextLine();
+            if(sc.hasNextLine()) sc.nextLine();
 
             if(opt==1) {
                 printMenu();
@@ -64,7 +65,7 @@ public class App {
         } else {
             Utils.clearConsole();
             System.out.println("Invalid Option Choosen.\n");
-            sc.nextLine();
+            if(sc.hasNextLine()) sc.nextLine();
             showBack();
         }
     }
@@ -74,7 +75,7 @@ public class App {
         System.out.print("Choose a option:\n1. Repeat\n2. Back to Menu\n3. Exit\nEnter option: ");
         if(sc.hasNextInt()) {
             int opt = sc.nextInt();
-            sc.nextLine();
+            if(sc.hasNextLine()) sc.nextLine();
 
             if(opt==1) {
                 execMenu(optp);
@@ -88,7 +89,7 @@ public class App {
         } else {
             Utils.clearConsole();
             System.out.println("Invalid Option Choosen.\n");
-            sc.nextLine();
+            if(sc.hasNextLine()) sc.nextLine();
             showBackWithRepeat(optp);
         }
     }
@@ -133,7 +134,7 @@ public class App {
 
         if(sc.hasNextInt()) {
             int opt = sc.nextInt();
-            sc.nextLine();
+            if(sc.hasNextLine()) sc.nextLine();
 
             if(opt<1 || opt>i) {
                 Utils.clearConsole();
@@ -152,7 +153,7 @@ public class App {
         } else {
             Utils.clearConsole();
             System.out.println("Invalid Option Choosen.\n");
-            sc.nextLine();
+            if(sc.hasNextLine()) sc.nextLine();
             showBack();
         }
     }
