@@ -12,6 +12,7 @@ import tasks.ArmstrongNumber;
 import tasks.PalindromeNumber;
 import tasks.Swap2Number;
 import tasks.LargestOfThreeNumber;
+import tasks.GoldbachsConjecture;
 
 public class App {
     static String[] tasks = {
