@@ -11,6 +11,7 @@ import tasks.FactorialOfANumber;
 import tasks.ArmstrongNumber;
 import tasks.PalindromeNumber;
 import tasks.Swap2Number;
+import tasks.LargestOfThreeNumber;
 
 public class App {
     static String[] tasks = {
